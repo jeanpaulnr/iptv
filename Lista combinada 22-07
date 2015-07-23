@@ -1,0 +1,953 @@
+#EXTM3U
+#EXTINF:0,--Chile--
+http://separador.m3u
+#EXTINF:0, RedTV HD
+http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
+#EXTINF:0, UCV HD
+http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
+#EXTINF:0, TVN HD
+http://wow3.tvn.cl:1935/liveedge/tvnelemental.smil/chunklist-b1431000.m3u8
+#EXTINF:0, TVN HD-2
+http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:0, TVN HD-TDT
+http://wow1.tvn.cl:1935/tvn-live/b26226ff4616997e7921be49f3cddbe8_720p/chunklist.m3u8
+#EXTINF:0, Mega HD
+http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+#EXTINF:0, CHV HD
+http://mi.chv.cl/playlist/stream.m3u8?s=hd
+#EXTINF:0, CHV-2
+http://mi.chv.cl/playlist/stream.m3u8?s=sd
+#EXTINF:0, C13 HD
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+#EXTINF:0, C13 Cable
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:0, RecTV
+http://13rec.movil.ztreaming.com/13rec/13rec/playlist.m3u8
+#EXTINF:0, ETC TV
+http://movilstream.digitalproserver.com/etctv/etctvvivo/livestream1/playlist.m3u8
+#EXTINF:0, CDF Premium
+http://65.202.39.110:5000/live/cdf_chile_deporte/playlist.m3u8
+#EXTINF:0, CDO Premium
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+#EXTINF:0, TV Chile
+http://edge-20-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+#EXTINF:0,Uoct
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
+
+#EXTINF:0,--Regiones Chile--
+http://separador.m3u
+#EXTINF:0, AntofagastaTV
+http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w2082040148_b796000.m3u8
+#EXTINF:0, Canal 9 BioBioTV HD
+http://wow2.cl.digitalproserver.com/c9/livestream1/chunklist_w983075885.m3u8
+#EXTINF:0, TVU Concepcion HD
+http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream1/playlist.m3u8
+#EXTINF:0, ITV HD Punta Arenas
+http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
+#EXTINF:0, PinguinoTV HD Punta Arenas 
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:0, Holvoet HD Copiapo
+http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
+#EXTINF:0, Contivision HD
+http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
+#EXTINF:0, CampusTV HD U.Talca
+http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream1/playlist.m3u8
+#EXTINF:0, Ufrovision HD
+http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b1564000.m3u8
+
+#EXTINF:0,--Peliculas--
+http://separador.m3u
+#EXTINF:0,AMC (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/366.m3u8
+#EXTINF:0,FOX (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/125.m3u8
+#EXTINF:0,pelis
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
+#EXTINF:0,Warner Channel HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/94.m3u8
+#EXTINF:0,TNT Series (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/158.m3u8
+#EXTINF:0,TNT (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/358.m3u8
+#EXTINF:0,Space HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/334.m3u8
+#EXTINF:0,Cinecanal (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/352.m3u8
+#EXTINF:0,Cinemax (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/354.m3u8
+#EXTINF:0,Universal Channel (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/137.m3u8
+#EXTINF:0,FOX Cinema (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/338.m3u8
+#EXTINF:0,FOX Classics (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/346.m3u8
+#EXTINF:0,FX (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/145.m3u8
+#EXTINF:0,Fox1 HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/298.m3u8
+#EXTINF:0,TCM (alterno) (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/384.m3u8
+#EXTINF:0,FOX Action HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/302.m3u8
+#EXTINF:0,FOX Movies (sd) (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/308.m3u8
+#EXTINF:0,Warner Channel (sd) (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/96.m3u8
+#EXTINF:0,Golden EDGE (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/364.m3u8
+#EXTINF:0,Syfy (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/142.m3u8
+#EXTINF:0,Golden HD (sd) (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/320.m3u8
+#EXTINF:0,Syfy (alterno) (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/143.m3u8
+#EXTINF:0,Film Zone HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/322.m3u8
+#EXTINF:0,De Pelicula HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/326.m3u8
+#EXTINF:0,pelis
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
+#EXTINF:0,ISAT (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/378.m3u8
+#EXTINF:0,TNT HD (sd) (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/315.m3u8
+#EXTINF:0,Film Zone (sd) (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/324.m3u8
+#EXTINF:0,Golden (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/361.m3u8
+#EXTINF:0,De Pelicula HD (sd) (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/327.m3u8
+#EXTINF:0,ISAT (alterno) (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/379.m3u8
+#EXTINF:0,Space (alterno) (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/370.m3u8
+#EXTINF:0,TNT (alterno) (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/359.m3u8
+#EXTINF:0,AMC HD (sd) (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/332.m3u8
+#EXTINF:0,AMC (alterno) (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/368.m3u8
+#EXTINF:0,Cinecanal+ HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/310.m3u8
+#EXTINF:0,Cinecanal+ (sd) (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/312.m3u8
+#EXTINF:0,FX HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/102.m3u8
+#EXTINF:0,Golden HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/318.m3u8
+#EXTINF:0,Studio Universal (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/374.m3u8
+#EXTINF:0,AXN HD (sd) (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/112.m3u8
+#EXTINF:0,FOX Movies HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/306.m3u8
+#EXTINF:0,TNT Series (alterno) (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/160.m3u8
+#EXTINF:0,TCM (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/382.m3u8
+#EXTINF:0,FOX Classics (alterno) (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/348.m3u8
+#EXTINF:0,Space (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/372.m3u8
+#EXTINF:0,AXN HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/110.m3u8
+#EXTINF:0,Cinemax (sd) (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/356.m3u8
+#EXTINF:0,TNT HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/314.m3u8
+#EXTINF:0,Fox1 HD (sd) (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/300.m3u8
+#EXTINF:0,FOXCinema (alterno) (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/340.m3u8
+#EXTINF:0,Sony HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/90.m3u8
+#EXTINF:0,FOX HD (sd) (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/88.m3u8
+#EXTINF:0,FOX HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/86.m3u8
+#EXTINF:0,FX (sd) (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/104.m3u8
+#EXTINF:0,AMC HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/330.m3u8
+#EXTINF:0,Universal HD (sd) (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/100.m3u8
+#EXTINF:0,Studio Universal (alterno) (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/375.m3u8
+#EXTINF:0,FX (alterno) (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/147.m3u8
+#EXTINF:0,Space (sd) (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/336.m3u8
+#EXTINF:0,FOX Action (sd) (Cine)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/304.m3u8
+#EXTINF:0,Universal HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/98.m3u8
+
+#EXTINF:0,--Deportes--
+http://separador.m3u
+#EXTINF:0,Canal 5 HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/50.m3u8
+#EXTINF:0,ESPN (alterno) (Deportes)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/407.m3u8
+#EXTINF:0, ESPN
+http://cdn5.iviplanet.com:1935/CITYTV-TO/myStream.sdp/playlist.m3u8
+#EXTINF:0,ESPN (Deportes)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/406.m3u8
+#EXTINF:0,ESPN 2 (Deportes)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/412.m3u8
+#EXTINF:0,ESPN 3 (Deportes)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/393.m3u8
+#EXTINF:0,ESPN 3 (sd) (Deportes)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/395.m3u8
+#EXTINF:0,ESPN 3 HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/394.m3u8
+#EXTINF:0, Fox Sports
+http://cdn5.iviplanet.com:1935/TELEPACIFICO-TO/myStream.sdp/playlist.m3u8
+#EXTINF:0,Sevilla fc.sp - Sevilla FC
+rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
+#EXTINF:0,Fox Sport 2 (sd) (Deportes)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/404.m3u8
+#EXTINF:6600,FOX SPORTS NEWS HD
+http://4BA9EBDB07C05883:@5.159.96.170:8000/sport1
+#EXTINF:0,Fox Sport HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/398.m3u8
+#EXTINF:0,Fox Sport 2 HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/402.m3u8
+#EXTINF:0,HMx Deportes HD (sd) (Deportes)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/471.m3u8
+#EXTINF:0,HMx Deportes HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/470.m3u8
+#EXTINF:0,ESPN HD (sd) (Deportes)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/391.m3u8
+#EXTINF:0,Fox Sport 2 (sd) (Deportes)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/403.m3u8
+#EXTINF:0,FOX NFL (Deportes)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/397.m3u8
+#EXTINF:0, GolTV USA 1080p
+http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b3596000.m3u8
+#EXTINF:0,Fox Sports (Deportes)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/399.m3u8
+#EXTINF:0, BeIN Sport 1
+http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
+#EXTINF:0, BeIN Sport 2 
+http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
+#EXTINF:0,ESPIN
+http://cdn5.iviplanet.com:1935/CITYTV-TO/myStream.sdp/playlist.m3u8
+#EXTINF:0,PacMountain1080P
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:0,GOL TV
+http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
+#EXTINF:0,DIRECT TV sports
+http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
+#EXTINF:0,CANAL+LIGAHD
+http://tinyurl.com/o4agwml
+#EXTINF:0,Sport1
+http://4BA9EBDB07C05883:@5.159.96.170:8000/sport1
+#EXTINF:0,Sport 1 HD (RU) Op. 01
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_C04_SPORT1HD/variant.m3u8?version=2
+#EXTINF:0,Sport 1 HD (RU) Op. 02
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+
+#EXTINF:0,--Cultural--
+http://separador.m3u
+#EXTINF:0,History Sur
+http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0,Indagando TV
+http://streaming.enetres.net/B7456E01B090498DAF2F191C36DF29DC024/smil:live.smil/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0,Animal Planet (Mundo y Cultura)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/261.m3u8
+#EXTINF:0, Discovery Channel
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:0,Discovery Channel (Mundo y Cultura)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/258.m3u8
+#EXTINF:0,Lifetime (Mundo y Cultura)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/274.m3u8
+#EXTINF:0,Nat Geo (Mundo y Cultura)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/270.m3u8
+#EXTINF:0,Nat Geo Wild (Mundo y Cultura)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/250.m3u8
+#EXTINF:0,World Discovery HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/254.m3u8
+#EXTINF:0,Discovery Science (Mundo y Cultura)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/280.m3u8
+#EXTINF:0,History Channel HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/246.m3u8
+#EXTINF:0,Fox life (alterno) (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/172.m3u8
+#EXTINF:0,Discovery Civilization (Mundo y Cultura)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/282.m3u8
+#EXTINF:0,HD Teather Discovery (Mundo y Cultura)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/242.m3u8
+#EXTINF:0,Discovery Turbo (Mundo y Cultura)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/288.m3u8
+#EXTINF:0,World Discovery (alterno) (Mundo y Cultura)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/291.m3u8
+#EXTINF:0,Animal Planet (alterno) (Mundo y Cultura)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/263.m3u8
+#EXTINF:0,Discovery Channel (alterno) (Mundo y Cultura)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/260.m3u8
+#EXTINF:0,Investigation Discovery (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/154.m3u8
+#EXTINF:0,Fox life (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/170.m3u8
+#EXTINF:0,HD Teather Discovery (sd) (Mundo y Cultura)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/243.m3u8
+#EXTINF:0,History Channel HD (sd) (Mundo y Cultura)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/248.m3u8
+#EXTINF:0,H&H Discovery (Mundo y Cultura)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/266.m3u8
+#EXTINF:0,Nat Geo Wild (sd) (Mundo y Cultura)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/251.m3u8
+#EXTINF:0,H&H Discovery (alterno) (Mundo y Cultura)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/267.m3u8
+#EXTINF:0,World Discovery HD (sd) (Mundo y Cultura)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/255.m3u8
+#EXTINF:0,TLC (Mundo y Cultura)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/290.m3u8
+#EXTINF:0,Lifetime (sd) (Mundo y Cultura)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/276.m3u8
+
+#EXTINF:0,--Kids--
+http://separador.m3u
+#EXTINF:0,Disney Channel (Infantil)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/210.m3u8
+#EXTINF:0,nick (alterno) (Infantil)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/219.m3u8
+#EXTINF:0,Discovery Kids (alterno) (Infantil)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/196.m3u8
+#EXTINF:0,nick HD (sd) (Infantil)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/216.m3u8
+#EXTINF:0,nick HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/214.m3u8
+#EXTINF:0,Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8#MegaIPTVArgentina
+#EXTINF:0,Boomerang (Infantil)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/230.m3u8
+#EXTINF:0,nick (Infantil)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/218.m3u8
+#EXTINF:0,nick jr (Infantil)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/206.m3u8
+#EXTINF:0,Disney Junior (Infantil)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/202.m3u8
+#EXTINF:0,Disney XD (Infantil)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/228.m3u8
+#EXTINF:0,Discovery Kids (Infantil)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/194.m3u8
+#EXTINF:0,CBeebies (Infantil)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/198.m3u8
+#EXTINF:0,nicktoons (Infantil)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/469.m3u8
+#EXTINF:0,Cartoon Network (Infantil)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/224.m3u8
+#EXTINF:0,Tooncast (Infantil)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/237.m3u8
+
+#EXTINF:0,--Cable--
+http://separador.m3u
+#EXTINF:0,A&E (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/108.m3u8
+#EXTINF:0,El gourmet (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/162.m3u8
+#EXTINF:0,BBC Entertainment (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/130.m3u8
+#EXTINF:0,Comedy Central (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/120.m3u8
+#EXTINF:0,Proyecto 40 HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/22.m3u8
+#EXTINF:0,Casa Club (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/181.m3u8
+#EXTINF:0,TBS veryfunny (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/178.m3u8
+#EXTINF:0,Fashion TV
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+#EXTINF:0,TBS veryfunny (alterno) (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/180.m3u8
+#EXTINF:0,Glitz (alterno) (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/168.m3u8
+#EXTINF:0,E! Entertainment Television (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/134.m3u8
+#EXTINF:0,TruTV HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/114.m3u8
+#EXTINF:0,BBC Entertainment (alterno) (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/132.m3u8
+#EXTINF:0,Comedy Central HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/118.m3u8
+#EXTINF:0,Glitz (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/166.m3u8
+#EXTINF:0,Distrito Comedia (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/174.m3u8
+#EXTINF:0,El canal de las estrellas HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/34.m3u8
+#EXTINF:0,Gala TV (TV Abierta)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/60.m3u8
+#EXTINF:0,Gala TV HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/58.m3u8
+#EXTINF:0,El gourmet (alterno) (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/164.m3u8
+#EXTINF:0,Garaje TV (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/474.m3u8
+#EXTINF:0,TruTV HD (sd) (Entretenimiento)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/116.m3u8
+
+#EXTINF:0,--Musica--
+http://separador.m3u
+#EXTINF:0, CapitalTV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
+#EXTINF:0, First Music HD 1080p
+http://109.239.142.62:1935/live/livestream1/playlist.m3u8
+#EXTINF:0,MTV Latino (Música)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/444.m3u8
+#EXTINF:0,Bandamax (Música)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/450.m3u8
+#EXTINF:0, VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:0, VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:0, VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0,VH1 HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/438.m3u8
+#EXTINF:0,MTV Live HD (sd) (Música)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/431.m3u8
+#EXTINF:0,MTV Live HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/430.m3u8
+#EXTINF:0,Telehit (sd) (Música)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/436.m3u8
+#EXTINF:0,MTV Hits (Música)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/476.m3u8
+#EXTINF:0,MTV N HD (sd) (Música)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/432.m3u8
+#EXTINF:0,NOWMusic.uk - Now Music
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:0,Unotv.mx - Uno TV HD
+http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8#MegaIPTVArgentina
+#EXTINF:0,Telehit HD (Canales HD (+20mbps))
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/434.m3u8
+#EXTINF:0,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
+
+#EXTINF:0,--Radios--
+http://separador.m3u
+#EXTINF:0,Duna
+http://wow1.dallas.digitalproserver.com/dunatv/dunatvvivo/dunatv.smil/playlist.m3u8
+#EXTINF:0,Tiempo
+http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
+#EXTINF:0,Zero
+http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m3u8
+#EXTINF:0,Radio la clave
+http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
+
+#EXTINF:0,--Peru--
+http://separador.m3u
+#EXTINF:0, ATV HD
+http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b1500.m3u8
+#EXTINF:0, AmericaTV
+http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-b.m3u8
+#EXTINF:0, LatinaTV
+http://ooyalahd2-f.akamaihd.net/i/latinalim_delivery@128959/index_282_av-p.m3u8
+#EXTINF:0, PanamericanaTV
+http://m.iblups.com:1935/lives/ptv1/playlist.m3u8
+#EXTINF:0, RBC Satelital
+http://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd/playlist.m3u8
+#EXTINF:0, BethelTV HD
+http://streamtv.betheltv.pe:1935/bethelgospelhd/streamingbethel25hd_source/playlist.m3u8
+
+#EXTINF:0,--Argentina--
+http://separador.m3u
+#EXTINF:0, ElTrece HD
+http://live-edge01.telecentro.net.ar/live/13hd-720/playlist.m3u8
+#EXTINF:0, Telefe HD
+http://live-edge01.telecentro.net.ar/live/tlfhd-720/playlist.m3u8
+#EXTINF:0, TV Publica HD
+http://live-edge01.telecentro.net.ar/live/tvphd-720/playlist.m3u8
+#EXTINF:0, Canal 26 HD
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:0, AmericaTV HD
+http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8
+#EXTINF:0, C5N
+http://c5n.stweb.tv/c5n/live/playlist.m3u8
+#EXTINF:0, Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w60428252_b1028000_sleng.m3u8
+#EXTINF:0, PakaPaka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/index_1_av-p.m3u8
+#EXTINF:0, TaTeTi
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-b.m3u8
+#EXTINF:0, Orbe 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/index_1_av-p.m3u8
+#EXTINF:0, DiputadosTV
+http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_1@301805/index_2_av-b.m3u8
+#EXTINF:0, TecTV
+http://lsdencuentrohls-lh.akamaihd.net/i/TECTVHLS_1@198012/index_200_av-b.m3u8
+#EXTINF:0, TN8
+http://cdn5.iviplanet.com:1935/TN8MBR/myStream.sdp_source/playlist.m3u8
+
+#EXTINF:0,--Colombia--
+http://separador.m3u
+#EXTINF:0, CaracolTV
+http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_2128_av-b.m3u8
+
+#EXTINF:0,--Mexico--
+http://separador.m3u
+#EXTINF:0, Canal de las Estrellas
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-b.m3u8
+#EXTINF:0, Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8
+#EXTINF:0, ForoTV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
+#EXTINF:0, Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:0, Azteca Noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-b.m3u8
+#EXTINF:0, Azteca 7 HD Deportes
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-b.m3u8
+#EXTINF:0, Multimedios TV
+http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732
+
+#EXTINF:0,--Spain--
+http://separador.m3u
+#EXTINF:0,La 1 TVE (TV Abierta)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/424.m3u8
+#EXTINF:0, Antena 3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:0, Antena 3 HD-2
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:0, La Sexta HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+#EXTINF:0, La Sexta HD-2
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+#EXTINF:0, MEGA HD
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
+#EXTINF:0, TVE 2
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0, RTVE 24H
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0, TeleCinco
+http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
+#EXTINF:0, RealMadrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8
+#EXTINF:0, Telesistema
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w1839003835_b764000.m3u8
+#EXTINF:0, Azteca Honduras
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/index_1_av-p.m3u8
+#EXTINF:0, Ten HD
+http://hd.worldkast.com/8378/smil:8378.smil/playlist.m3u8
+#EXTINF:0, Sulavision
+http://162.212.176.83:8080/sulavision.m3u8
+#EXTINF:0, Azteca Guatemala
+http://aztecalive-lh.akamaihd.net/i/1ym9yab3c_1@66742/index_1_av-b.m3u8
+
+#EXTINF:0,--Asia--
+http://separador.m3u
+#EXTINF:0, NHK World
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+#EXTINF:0, NHK World-2
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_600.m3u8
+#EXTINF:0, Arirang World HD
+http://worldlive.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8
+#EXTINF:0, Arirang Korea HD
+http://korealive.arirang.co.kr/cdnlive-hls/arirangklive/_definst_/liveevent/tvkorea4.m3u8
+#EXTINF:0, Arirang Radio StudioTV 
+http://fmlive2.arirang.co.kr/cdnlive-hls/arirangfmlive2/_definst_/liveevent/fmlive2.m3u8
+
+#EXTINF:0,--Internacionales--
+http://separador.m3u
+#EXTINF:0,Miami TV
+http://k4.usastreams.com:1935/miamitv/smile:miamitv/chunklist_w667654953_b1550000.m3u8
+#EXTINF:1,cdn
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:1,caricaturas
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:0,CanalExtremadura.es - EXTREMADURA TV
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:0, RT Espanol HD
+http://rt-a.akamaihd.net/ch_02@325606/720p.m3u8
+#EXTINF:0, RT Global HD
+http://rt-a.akamaihd.net/ch_01@325605/720p.m3u8
+#EXTINF:0, RT America HD
+http://rt-a.akamaihd.net/ch_04@325608/720p.m3u8
+#EXTINF:0, RT UK HD
+http://rt-a.akamaihd.net/ch_06@325610/720p.m3u8
+#EXTINF:0, RT Documentary HD
+http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
+#EXTINF:0, RT Arabic  HD
+http://rt-a.akamaihd.net/ch_03@325607/720p.m3u8
+#EXTINF:0, DW Europe
+http://dwschiene1-i.akamaihd.net/hls/live/221758-b/dwschiene1/x6x/playlist6x.m3u8
+#EXTINF:0, DW Arabia
+http://dwschiene2-i.akamaihd.net/hls/live/221759-b/dwschiene2/x6x/playlist6x.m3u8
+#EXTINF:0, DW Latino
+http://dwschiene3-i.akamaihd.net/hls/live/221760-b/dwschiene3/x6x/playlist6x.m3u8
+#EXTINF:0, DW Asia
+http://dwschiene4-i.akamaihd.net/hls/live/221761-b/dwschiene4/x6x/playlist6x.m3u8
+#EXTINF:0, DW America
+http://dwschiene5-i.akamaihd.net/hls/live/221762-b/dwschiene5/x6x/playlist6x.m3u8
+#EXTINF:0, DW Germany
+http://dwschiene6-i.akamaihd.net/hls/live/221763-b/dwschiene6/x6x/playlist6x.m3u8
+#EXTINF:0, HispanTV HD
+http://ptv04.level3.hls.live.cdn.overon.es/01.m3u8
+#EXTINF:0, NASATV HD
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
+#EXTINF:0, NASATV Educational HD
+http://nasatv-lh.akamaihd.net/i/NASA_102@319272/index_1000_av-p.m3u8
+#EXTINF:0, NASA Media Channel HD
+http://nasatv-lh.akamaihd.net/i/NASA_103@319271/index_1000_av-p.m3u8
+#EXTINF:0, Aljazeera English
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:0, Aljazeera America
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_america/ls_satlink/b_828.m3u8
+#EXTINF:0, Aljazeera Arabic
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
+#EXTINF:0, PressTV HD
+http://ptv03.level3.hls.live.cdn.overon.es/01.m3u8
+#EXTINF:0,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:0, CNN International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:0, CNN Int-2
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_528.m3u8
+#EXTINF:0, BBC World News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:0, SkyNews International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+#EXTINF:0, CCTV News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cctv_news/ls_satlink/b_828.m3u8
+#EXTINF:0, Reuters Live Stream
+http://live.reuters.miisolutions.net/rlo247/ngrp:rlo001.stream_all/24578/chunklist_w1145961705_b1056000.m3u8
+#EXTINF:0, Reuters Live 2 Stream
+http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/chunklist_b1056000.m3u8
+#EXTINF:0, France24 English
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/france24_en/ls_satlink/b_828.m3u8
+#EXTINF:0, France24 Arabia
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/france24_ar/ls_satlink/b_828.m3u8
+
+#EXTINF:0,--Religion--
+http://separador.m3u
+#EXTINF:0, BYU Latino
+http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/index_1240_av-b.m3u8
+#EXTINF:0, BYU USA HD
+http://byuhd2-lh.akamaihd.net/i/byutvglobalhd2_live@103134/index_2540_av-b.m3u8
+#EXTINF:0, BYU USA
+http://byuhd2-lh.akamaihd.net/i/byutvglobalhd2_live@103134/index_840_av-b.m3u8
+#EXTINF:0, TBN Enlace
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8
+#EXTINF:0, Enlace Juvenil
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/index_1728_av-b.m3u8
+#EXTINF:0, TBN USA HD
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_2528_av-b.m3u8
+#EXTINF:0, TBN USA
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_1164_av-b.m3u8
+
+#EXTINF:0,--On demand--
+http://separador.m3u
+#EXTINF:0,[COLOR blue]OBLIVION[/COLOR]
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!169&authkey=!ALlQcEBQSgTfj30&ithint=file%2cmkv
+#EXTINF:0,[COLOR blue]EX-MACHINA[/COLOR]
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!176&authkey=!AIRwBJU0o_MhpvQ&ithint=file%2cmkv
+#EXTINF:0,[COLOR blue]BIENVENIDOS AL AYER[/COLOR]
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!174&authkey=!AKAn1h6osTFl6bo&ithint=file%2cmkv
+#EXTINF:0,[COLOR blue]UNA NOCHE EN EL MUSEO 3[/COLOR]
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!173&authkey=!AMX3kSBcw9Z8bLU&ithint=file%2cmkv
+#EXTINF:0,[COLOR blue]MORTDECAI[/COLOR]
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!170&authkey=!APC7EGmdKSrx4y0&ithint=file%2cmkv
+#EXTINF:0,[COLOR blue]RUROUNI KENSHIN THE LEGEND ENDS[/COLOR]
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!168&authkey=!APhOt9MDkETcs_Q&ithint=video%2cavi
+#EXTINF:0,[COLOR blue]LA PIRAMIDE[/COLOR]
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!166&authkey=!ABOyn1AqFuEwlAU&ithint=file%2cmkv
+#EXTINF:0,[COLOR blue]LOS PINGUINOS DE PAPA[/COLOR]
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!165&authkey=!ALtS6Q01iJDCmic&ithint=video%2cavi
+#EXTINF:0,[COLOR blue]FOCUS 2015[/COLOR]
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!164&authkey=!APSbsEce74WgNUI&ithint=file%2cmkv
+#EXTINF:0,[COLOR blue]ESCOBAR PARAISO PERDIDO[/COLOR]
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!163&authkey=!AC5OXxOqfIxDgEI&ithint=video%2cavi
+#EXTINF:0,[COLOR blue]AVENTURA DE DOS NOCHES[/COLOR]
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!162&authkey=!AGLx4bo2_juhVak&ithint=video%2cavi
+#EXTINF:0,[COLOR blue]SHERLOCK HOLMES: JUEGO DE SOMBRAS[/COLOR]
+https://onedrive.live.com/download.aspx?resid=ddd89122e94140c5!227&authkey=!AIilksgTxykonvY&ithint=file%2cmkv
+#EXTINF:0,[COLOR blue]MALEFICA[/COLOR]
+https://onedrive.live.com/download.aspx?resid=ddd89122e94140c5!223&authkey=!AK_xPvm1-tWDv5k&ithint=file%2cmkv
+#EXTINF:0,[COLOR blue]RAPIDO Y FURIOSO 6[/COLOR]
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!140&authkey=!AEQRR6DGLgqf4eI&ithint=video%2cavi
+#EXTINF:0,[COLOR blue]RAPIDO Y FURIOSO 5[/COLOR]
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!139&authkey=!ALRsDwdtDd3WuT0&ithint=video%2cavi
+#EXTINF:0,[COLOR blue]RAPIDO Y FURIOSO 4[/COLOR]
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!138&authkey=!AEEStnEowGFLEUY&ithint=video%2cavi
+#EXTINF:0,[COLOR blue]RAPIDO Y FURIOSO 3[/COLOR]
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!137&authkey=!APVeVaQtsJlH58U&ithint=video%2cavi
+#EXTINF:0,[COLOR blue]RAPIDO Y FURIOSO 2[/COLOR]
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!136&authkey=!AFpA8UCewIxKB44&ithint=video%2cavi
+#EXTINF:0,[COLOR blue]RAPIDO Y FURIOSO 1[/COLOR]
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!135&authkey=!AEPEVsCxHYrJuJk&ithint=video%2cavi
+#EXTINF:0,[COLOR blue]FRANCOTIRADOR 2014[/COLOR]
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!133&authkey=!AI8AZ4SBKHms-AY&ithint=video%2cmp4
+#EXTINF:0,[COLOR blue]CERCANA OBSESION [/COLOR]
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!115&authkey=!AFcURIAaITWRrGI&ithint=video%2cavi
+#EXTINF:0,[COLOR blue]INTRUSOS [/COLOR]
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!113&authkey=!AJmQ6ABSiAnTNVk&ithint=video%2cavi
+#EXTINF:0,[COLOR blue]ALQUILER DE PADRINOS [/COLOR]
+https://onedrive.live.com/download.aspx?resid=9caf247c0ad78cb5!73727&authkey=!AMUxFf8m6pkCPnA&ithint=file%2cmkv
+#EXTINF:0,[COLOR blue]50 SOMBRAS DE GRAY[/COLOR]
+https://onedrive.live.com/download.aspx?resid=9caf247c0ad78cb5!73652&authkey=!AOOliN6j1rYX-Ec&ithint=file%2cmkv
+#EXTINF:0,[COLOR blue]EL SEPTIMO HIJO[/COLOR]
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!116&authkey=!AALBgGqd1MyixpE&ithint=file%2cmkv
+#EXTINF:0,[COLOR blue]EL MARINO 4 [/COLOR]
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!114&authkey=!ANn_mNMIQUNHBaA&ithint=file%2cmkv
+#EXTINF:0,[COLOR blue]INTERESTELAR 2015 [/COLOR]
+https://onedrive.live.com/download.aspx?resid=bbc1d5e9f7f2ac26!108&authkey=!AOH1NR5IV8rGDSA&ithint=file%2cmkv
+#EXTINF:0,[COLOR blue]BUSQUEDA IMPLACABLE 3[/COLOR]
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!131&authkey=!AJZfzHpXQB2Md50&ithint=file%2cmkv
+#EXTINF:0,[COLOR blue]BUSQUEDA IMPLACABLE 2[/COLOR]
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!132&authkey=!AAUCbt9O9zS0hUg&ithint=file%2cmkv
+#EXTINF:0,[COLOR blue]BUSQUEDA IMPLACABLE 1[/COLOR]
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!134&authkey=!ABSd0nYndLF1SFA&ithint=file%2cmkv
+#EXTINF:0,MENTES PELIGROSAS
+https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
+#EXTINF:0,INTRUSOS
+https://ia600309.us.archive.org/17/items/IntrrStream/INTRRS.mp4
+#EXTINF:0,INDESTRUCTIBLES 3
+https://ia600309.us.archive.org/4/items/industructibles/I%C3%91D3TRUC3.mp4
+#EXTINF:0,FRANCOTIRADOR
+https://ia600309.us.archive.org/0/items/FRCNTDR/FRCNTDR.mp4
+#EXTINF:0,FOCUS
+https://ia600309.us.archive.org/21/items/hemelgelvez4_gmail_FCS/FCS.mp4
+#EXTINF:0,RESUCITADOS
+https://ia800309.us.archive.org/21/items/1esucitados./1esucitados..mp4
+#EXTINF:0,ROBOCOP
+https://ia601507.us.archive.org/33/items/4obocop./4obocop..mp4
+#EXTINF:0,DESTINO JUPITER
+https://ia600309.us.archive.org/17/items/D3T1N0JUT3R/D3T1N0%20JUT3R.mp4
+#EXTINF:0,.: ON DEMAND KIDS:.
+http://?
+#EXTINF:0,ALADDIN
+http://www.spruto.tv/get_file/1/38577f19393369cb2c5d785beb3c3ffc/80000/80730/80730.mp4
+#EXTINF:0,ALADDIN 2 EL RETORNO DE JAFAR
+http://www.spruto.tv/get_file/5/b66d5c46890169c4100a2d1efdc8c45c/110000/110198/110198.mp4
+#EXTINF:0,ALADDIN Y EL REY DE LOS LADRONES
+http://www.spruto.tv/get_file/5/ca110c858858a9f44749dfaac0220c9a/110000/110199/110199.mp4
+#EXTINF:0,ALICIA EN EL PAIS DE LAS MARAVILLAS (1951)
+http://www.spruto.tv/get_file/1/6e54e785dcb21b63de42f4928ce68bf5/86000/86137/86137.mp4
+#EXTINF:0,ALICIA EN EL PAIS DE LAS MARAVILLAS (2010)
+http://www.spruto.tv/get_file/7/f75b9e1cefffcd3087150b883fac3fc7/76000/76261/76261.mp4
+#EXTINF:0,BARBIE SUPER PRINCESA
+http://www.spruto.tv/get_file/2/296ed0c12d8f80128b04d333c08204c8/98000/98420/98420.mp4
+#EXTINF:0,ENREDADOS
+http://www.spruto.tv/get_file/1/03259f1f551f0a49262bb7850316fb3f/80000/80737/80737.mp4
+#EXTINF:0,FROZEN UNA AVENTURA CONGELADA
+http://www.spruto.tv/get_file/1/bcae57a2defea5dec966b96630b25aee/80000/80731/80731.mp4
+#EXTINF:0,LA BELLA Y LA BESTIA
+http://www.spruto.tv/get_file/1/c70f56a357964267dabbc26f0e3ab056/80000/80729/80729.mp4
+#EXTINF:0,LA CENICIENTA (1950)
+http://www.spruto.tv/get_file/1/1f40df69b4937859479ea77516275841/80000/80739/80739.mp4
+#EXTINF:0,LA CENICIENTA 2 UN SUEÑO HECHO REALIDAD
+http://www.spruto.tv/get_file/5/e385ba2b56ffe07c86d12b21a0ba7075/110000/110193/110193.mp4
+#EXTINF:0,LA PRINCESA Y EL SAPO
+http://www.spruto.tv/get_file/1/0ca9aa377fdebc035473d0854dba27bd/80000/80733/80733.mp4
+#EXTINF:0,LA SIRENITA
+http://www.spruto.tv/get_file/1/4b064db0eb982aa0bbe454deab684473/80000/80728/80728.mp4
+#EXTINF:0,LA SIRENITA 2 REGRESO AL MAR
+http://www.spruto.tv/get_file/5/3285b40f685b8393955c2f6c6c2c3633/110000/110190/110190.mp4
+#EXTINF:0,LA SIRENITA LOS COMIENZOS DE ARIEL
+http://www.spruto.tv/get_file/5/a2ce2d450446df3680e88291f5265033/110000/110191/110191.mp4
+#EXTINF:0,MULAN
+http://www.spruto.tv/get_file/1/8743a11400fed1059155b246e8c16e80/80000/80735/80735.mp4
+#EXTINF:0,MULAN 2
+http://www.spruto.tv/get_file/7/cc0868b3bbd4d8af610469b429a57667/76000/76864/76864.mp4
+#EXTINF:0,POCAHONTAS
+http://www.spruto.tv/get_file/1/6cccbcf375881ff2d942fc3383e52cf8/80000/80732/80732.mp4
+#EXTINF:0,POCAHONTAS 2
+http://www.spruto.tv/get_file/5/089c5dc4e579784688380d9ce7cbff9a/110000/110200/110200.mp4
+#EXTINF:0,ALADDIN
+http://www.spruto.tv/get_file/1/38577f19393369cb2c5d785beb3c3ffc/80000/80730/80730.mp4
+#EXTINF:0,ALADDIN 2 EL RETORNO DE JAFAR
+http://www.spruto.tv/get_file/5/b66d5c46890169c4100a2d1efdc8c45c/110000/110198/110198.mp4
+#EXTINF:0,ALADDIN Y EL REY DE LOS LADRONES
+http://www.spruto.tv/get_file/5/ca110c858858a9f44749dfaac0220c9a/110000/110199/110199.mp4
+#EXTINF:0,ALICIA EN EL PAIS DE LAS MARAVILLAS (1951)
+http://www.spruto.tv/get_file/1/6e54e785dcb21b63de42f4928ce68bf5/86000/86137/86137.mp4
+#EXTINF:0,ALICIA EN EL PAIS DE LAS MARAVILLAS (2010)
+http://www.spruto.tv/get_file/7/f75b9e1cefffcd3087150b883fac3fc7/76000/76261/76261.mp4
+#EXTINF:0,BARBIE SUPER PRINCESA
+http://www.spruto.tv/get_file/2/296ed0c12d8f80128b04d333c08204c8/98000/98420/98420.mp4
+#EXTINF:0,ENREDADOS
+http://www.spruto.tv/get_file/1/03259f1f551f0a49262bb7850316fb3f/80000/80737/80737.mp4
+#EXTINF:0,FROZEN UNA AVENTURA CONGELADA
+http://www.spruto.tv/get_file/1/bcae57a2defea5dec966b96630b25aee/80000/80731/80731.mp4
+#EXTINF:0,LA BELLA Y LA BESTIA
+http://www.spruto.tv/get_file/1/c70f56a357964267dabbc26f0e3ab056/80000/80729/80729.mp4
+#EXTINF:0,LA CENICIENTA (1950)
+http://www.spruto.tv/get_file/1/1f40df69b4937859479ea77516275841/80000/80739/80739.mp4
+#EXTINF:0,LA CENICIENTA 2 UN SUEÑO HECHO REALIDAD
+http://www.spruto.tv/get_file/5/e385ba2b56ffe07c86d12b21a0ba7075/110000/110193/110193.mp4
+#EXTINF:0,LA PRINCESA Y EL SAPO
+http://www.spruto.tv/get_file/1/0ca9aa377fdebc035473d0854dba27bd/80000/80733/80733.mp4
+#EXTINF:0,LA SIRENITA
+http://www.spruto.tv/get_file/1/4b064db0eb982aa0bbe454deab684473/80000/80728/80728.mp4
+#EXTINF:0,LA SIRENITA 2 REGRESO AL MAR
+http://www.spruto.tv/get_file/5/3285b40f685b8393955c2f6c6c2c3633/110000/110190/110190.mp4
+#EXTINF:0,LA SIRENITA LOS COMIENZOS DE ARIEL
+http://www.spruto.tv/get_file/5/a2ce2d450446df3680e88291f5265033/110000/110191/110191.mp4
+#EXTINF:0,MULAN
+http://www.spruto.tv/get_file/1/8743a11400fed1059155b246e8c16e80/80000/80735/80735.mp4
+#EXTINF:0,MULAN 2
+http://www.spruto.tv/get_file/7/cc0868b3bbd4d8af610469b429a57667/76000/76864/76864.mp4
+#EXTINF:0,POCAHONTAS
+http://www.spruto.tv/get_file/1/6cccbcf375881ff2d942fc3383e52cf8/80000/80732/80732.mp4
+#EXTINF:0,POCAHONTAS 2
+http://www.spruto.tv/get_file/5/089c5dc4e579784688380d9ce7cbff9a/110000/110200/110200.mp4
+#EXTINF:0,VALIENTE
+http://www.spruto.tv/get_file/1/bdbbca9f39a2dc67d1fd3af42a36065b/80000/80734/80734.mp4
+#EXTINF:0,ANASTASIA
+http://www.spruto.tv/get_file/5/717a259eabde324b660eaf07d3b56c7f/110000/110197/110197.mp4?start=0
+#EXTINF:0,LA BELLA DURMIENTE
+http://www.spruto.tv/get_file/1/5a1b0057367871e647217efa738e97be/80000/80736/80736.mp4?start=0
+#EXTINF:0,LA BELLA Y LA BESTIA 2
+http://www.spruto.tv/get_file/5/db0dd392dbcd04d1d5e6190a22443734/110000/110192/110192.mp4?start=0
+#EXTINF:0,LA PRINCESA SOFIA: ERASE UNA VEZ UNA PRINCESA
+http://www.spruto.tv/get_file/5/593ab7a4e734a6ec09e5cabf06798aeb/110000/110201/110201.mp4?start=0
+#EXTINF:0,LA PRINCESA SOFIA: UN PALACIO EN EL AGUA
+http://www.spruto.tv/get_file/5/27ffbde5055018126b083d4eb4f2eb3a/110000/110203/110203.?start=0
